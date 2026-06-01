@@ -157,9 +157,16 @@ Per-class anomaly visualisation in `results/`. Hybrid threshold + IF pipeline me
 
 ## Authors
 
+Final-Year Project team, Department of Information Science & Engineering, **KLS Gogte Institute of Technology, Belagavi** (2023–2024):
+
+- **S Aditya Vardhan**
+- **Basavraj R Duganavar**
+- **Chinmay Chinchanikar**
 - **Nachiket Magadum** ([@NachiketMagadum](https://github.com/NachiketMagadum))
-- Project team — Information Science & Engineering, Gogte Institute of Technology, Belagavi
-- Faculty guide — GIT, ISE Department
+
+**Faculty guide:** Dr. Harish H. Kenchannavar
+
+See [AUTHORS.md](AUTHORS.md) for full credits and contributor details.
 
 ## License
 
